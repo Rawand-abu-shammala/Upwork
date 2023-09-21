@@ -1,0 +1,1081 @@
+{
+  "auth": [
+    {
+      "id": "tsHxP3Ew",
+      "username": "abdQaddora",
+      "password": "Aa123456",
+      "token": "bz_1pGsGwDhDQJy9HmEKw"
+    },
+    {
+      "id": "WNOzVg91",
+      "username": "rygaju15",
+      "password": "Pa$$w0rd!",
+      "token": "kE7RZcJyEK-fR1qJBRh2m"
+    },
+    {
+      "id": "vPK5P1V6",
+      "username": "xokocixece",
+      "password": "Pa$$w0rd!",
+      "token": "eUpsG_Ei0e7_xJgNPu6sD"
+    },
+    {
+      "id": "eG_0RHfY",
+      "username": "xakujiluz",
+      "password": "Pa$$w0rd!",
+      "token": "9CzUAaE7TW_KcYldWRrtP"
+    }
+  ],
+  "users": [
+    {
+      "id": "tsHxP3Ew",
+      
+          "description": "login page"
+        },
+        {
+          "description": "landing page for tna company"
+        }
+      ],
+      "skills": [
+        "react",
+        "html",
+        "css",
+        "js",
+        "redux"
+      ],
+      "searchHistory": [
+        "react",
+        "js",
+        "css"
+      ],
+      "savedJobs": []
+    
+    },
+    {
+      "id": "WNOzVg91",
+      "username": "rygaju15",
+      "hourlyRate": 24,
+      "jobTitle": "front end developer",
+      "location": "Uşak",
+      "overview": "software engineering student at Al-Azhar university of Gaza level 4, frontend developer for three years, I worked on several projects as a React.js front-end developer.",
+      "photo": "https://1fid.com/wp-content/uploads/2022/03/beautiful-image-10-1024x1024.jpg",
+      "portfolio": [],
+      "skills": [
+        "react",
+        "js",
+        "css"
+      ],
+      "token": "kE7RZcJyEK-fR1qJBRh2m",
+      "searchHistory": [
+        "react"
+      ],
+      "savedJobs": []
+    },
+    {
+      "id": "vPK5P1V6",
+      "username": "xokocixece",
+      "hourlyRate": 23,
+      "jobTitle": "front end developer",
+      "location": "Poitiers",
+      "overview": "software engineering student at Al-Azhar university of Gaza level 4, frontend developer for three years, I worked on several projects as a React.js front-end developer.",
+      "photo": "https://1fid.com/wp-content/uploads/2022/03/beautiful-image-10-1024x1024.jpg",
+      "portfolio": [],
+      "skills": [
+        "react",
+        "js",
+        "css"
+      ],
+      "token": "eUpsG_Ei0e7_xJgNPu6sD",
+      "searchHistory": [
+        "react",
+        "css"
+      ],
+      "savedJobs": []
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Create very basic html front end",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678943921",
+      "desc": "I need to make this in HTML today all these screens, Please add selection effect and hover effect. Note Slide 5: When user clicks on shuffle Values will just change, i will send you later hardcoded values.",
+      "priceType": "Fixed-price",
+      "budget": "10",
+      "proposals": "Less than 5",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Build a simple but custom calculator on my website",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "i need someone to take this template it and update it with a few custom buttons i'd like added. here is the template: https://infotechwar.com/it-solutions/how-to-build-a-calculator-using-html-css-and-javascript/",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "3 to 6 months",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Adapt CSS file for HTML login gateway",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "You will need to adapt an existing CSS file to apply the required design changes to an existing HTML login gateway (login, register, thank you pages) and considering responsive layout also. The HTML file can't be altered.",
+      "priceType": "Fixed-price",
+      "budget": "75",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Full-stack Web Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1646821200,
+      "desc": "We are seeking a talented Full-stack Web Developer to work on our e-commerce platform. You will be responsible for developing, testing, and maintaining the platform. The ideal candidate will have experience with React and Node.js.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "6 months",
+      "proposals": "15",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "UX/UI Designer",
+      "jobTitle": "UI/UX Designer",
+      "location": "New York, NY",
+      "postTimeStamp": 1646266800,
+      "desc": "We are looking for a talented UX/UI Designer to join our team. You will be responsible for creating user-friendly interfaces for our web and mobile applications. The ideal candidate will have experience with Sketch, Adobe XD, and InVision.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 35,
+        "max": 60
+      },
+      "projectLength": "3 months",
+      "proposals": "10",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Sketch",
+        "Adobe XD",
+        "InVision",
+        "User research",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Data Analyst",
+      "jobTitle": "Data Analyst",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1644754800,
+      "desc": "We are seeking a talented Data Analyst to join our team. You will be responsible for analyzing large datasets and presenting insights to our stakeholders. The ideal candidate will have experience with SQL and data visualization tools such as Tableau.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 70
+      },
+      "projectLength": "9 months",
+      "proposals": "8",
+      "level": "Expert",
+      "levelDesc": "5+ years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Data analysis",
+        "Data visualization",
+        "Python"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Content Writer",
+      "jobTitle": "Content Writer",
+      "location": "Remote",
+      "postTimeStamp": 1643562000,
+      "desc": "We are looking for a talented Content Writer to create engaging and informative content for our blog and website. The ideal candidate will have experience with SEO and content marketing strategies.",
+      "priceType": "Fixed-price",
+      "budget": 500,
+      "proposals": "20",
+      "level": "Entry level",
+      "levelDesc": "0-2 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Content writing",
+        "SEO",
+        "Copywriting",
+        "Research",
+        "Editing"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "React Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1647686400,
+      "desc": "We are seeking an experienced React developer to join our team and help us build dynamic and responsive web applications.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 25,
+        "max": 40
+      },
+      "projectLength": "3 months",
+      "proposals": "3",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with React and modern web development tools and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Python Developer",
+      "jobTitle": "Software Engineer",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1647772800,
+      "desc": "We are looking for an experienced Python developer to help us build and maintain our suite of software tools for data analysis and machine learning.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 60
+      },
+      "projectLength": "6 months",
+      "proposals": "5",
+      "level": "Expert",
+      "levelDesc": "7+ years of experience with Python and related data analysis and machine learning libraries and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "iOS Developer",
+      "jobTitle": "Mobile App Developer",
+      "location": "New York, NY",
+      "postTimeStamp": 1647859200,
+      "desc": "We are seeking an experienced iOS developer to help us build and maintain our suite of mobile apps for iOS devices.",
+      "priceType": "Fixed-price",
+      "budget": 5000,
+      "proposals": "8",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with iOS development and related tools and frameworks.",
+      "projectType": "One-time",
+      "skills": [
+        "Swift",
+        "iOS SDK",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Graphic Designer",
+      "jobTitle": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "postTimeStamp": 1647945600,
+      "desc": "We are looking for a skilled graphic designer to help us create visually appealing designs and marketing materials.",
+      "priceType": "Fixed-price",
+      "budget": 2500,
+      "proposals": "4",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with graphic design and related tools and software.",
+      "projectType": "One-time",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Color theory"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Create very basic html front end",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678943921",
+      "desc": "I need to make this in HTML today all these screens, Please add selection effect and hover effect. Note Slide 5: When user clicks on shuffle Values will just change, i will send you later hardcoded values.",
+      "priceType": "Fixed-price",
+      "budget": "10",
+      "proposals": "Less than 5",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Build a simple but custom calculator on my website",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "i need someone to take this template it and update it with a few custom buttons i'd like added. here is the template: https://infotechwar.com/it-solutions/how-to-build-a-calculator-using-html-css-and-javascript/",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "3 to 6 months",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Adapt CSS file for HTML login gateway",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "You will need to adapt an existing CSS file to apply the required design changes to an existing HTML login gateway (login, register, thank you pages) and considering responsive layout also. The HTML file can't be altered.",
+      "priceType": "Fixed-price",
+      "budget": "75",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Full-stack Web Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1646821200,
+      "desc": "We are seeking a talented Full-stack Web Developer to work on our e-commerce platform. You will be responsible for developing, testing, and maintaining the platform. The ideal candidate will have experience with React and Node.js.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "6 months",
+      "proposals": "15",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "UX/UI Designer",
+      "jobTitle": "UI/UX Designer",
+      "location": "New York, NY",
+      "postTimeStamp": 1646266800,
+      "desc": "We are looking for a talented UX/UI Designer to join our team. You will be responsible for creating user-friendly interfaces for our web and mobile applications. The ideal candidate will have experience with Sketch, Adobe XD, and InVision.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 35,
+        "max": 60
+      },
+      "projectLength": "3 months",
+      "proposals": "10",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Sketch",
+        "Adobe XD",
+        "InVision",
+        "User research",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Data Analyst",
+      "jobTitle": "Data Analyst",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1644754800,
+      "desc": "We are seeking a talented Data Analyst to join our team. You will be responsible for analyzing large datasets and presenting insights to our stakeholders. The ideal candidate will have experience with SQL and data visualization tools such as Tableau.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 70
+      },
+      "projectLength": "9 months",
+      "proposals": "8",
+      "level": "Expert",
+      "levelDesc": "5+ years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Data analysis",
+        "Data visualization",
+        "Python"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Content Writer",
+      "jobTitle": "Content Writer",
+      "location": "Remote",
+      "postTimeStamp": 1643562000,
+      "desc": "We are looking for a talented Content Writer to create engaging and informative content for our blog and website. The ideal candidate will have experience with SEO and content marketing strategies.",
+      "priceType": "Fixed-price",
+      "budget": 500,
+      "proposals": "20",
+      "level": "Entry level",
+      "levelDesc": "0-2 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Content writing",
+        "SEO",
+        "Copywriting",
+        "Research",
+        "Editing"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "React Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1647686400,
+      "desc": "We are seeking an experienced React developer to join our team and help us build dynamic and responsive web applications.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 25,
+        "max": 40
+      },
+      "projectLength": "3 months",
+      "proposals": "3",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with React and modern web development tools and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Python Developer",
+      "jobTitle": "Software Engineer",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1647772800,
+      "desc": "We are looking for an experienced Python developer to help us build and maintain our suite of software tools for data analysis and machine learning.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 60
+      },
+      "projectLength": "6 months",
+      "proposals": "5",
+      "level": "Expert",
+      "levelDesc": "7+ years of experience with Python and related data analysis and machine learning libraries and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "iOS Developer",
+      "jobTitle": "Mobile App Developer",
+      "location": "New York, NY",
+      "postTimeStamp": 1647859200,
+      "desc": "We are seeking an experienced iOS developer to help us build and maintain our suite of mobile apps for iOS devices.",
+      "priceType": "Fixed-price",
+      "budget": 5000,
+      "proposals": "8",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with iOS development and related tools and frameworks.",
+      "projectType": "One-time",
+      "skills": [
+        "Swift",
+        "iOS SDK",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Graphic Designer",
+      "jobTitle": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "postTimeStamp": 1647945600,
+      "desc": "We are looking for a skilled graphic designer to help us create visually appealing designs and marketing materials.",
+      "priceType": "Fixed-price",
+      "budget": 2500,
+      "proposals": "4",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with graphic design and related tools and software.",
+      "projectType": "One-time",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Color theory"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Create very basic html front end",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678943921",
+      "desc": "I need to make this in HTML today all these screens, Please add selection effect and hover effect. Note Slide 5: When user clicks on shuffle Values will just change, i will send you later hardcoded values.",
+      "priceType": "Fixed-price",
+      "budget": "10",
+      "proposals": "Less than 5",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Build a simple but custom calculator on my website",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "i need someone to take this template it and update it with a few custom buttons i'd like added. here is the template: https://infotechwar.com/it-solutions/how-to-build-a-calculator-using-html-css-and-javascript/",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "3 to 6 months",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Adapt CSS file for HTML login gateway",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "You will need to adapt an existing CSS file to apply the required design changes to an existing HTML login gateway (login, register, thank you pages) and considering responsive layout also. The HTML file can't be altered.",
+      "priceType": "Fixed-price",
+      "budget": "75",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Full-stack Web Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1646821200,
+      "desc": "We are seeking a talented Full-stack Web Developer to work on our e-commerce platform. You will be responsible for developing, testing, and maintaining the platform. The ideal candidate will have experience with React and Node.js.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "6 months",
+      "proposals": "15",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "UX/UI Designer",
+      "jobTitle": "UI/UX Designer",
+      "location": "New York, NY",
+      "postTimeStamp": 1646266800,
+      "desc": "We are looking for a talented UX/UI Designer to join our team. You will be responsible for creating user-friendly interfaces for our web and mobile applications. The ideal candidate will have experience with Sketch, Adobe XD, and InVision.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 35,
+        "max": 60
+      },
+      "projectLength": "3 months",
+      "proposals": "10",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Sketch",
+        "Adobe XD",
+        "InVision",
+        "User research",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Data Analyst",
+      "jobTitle": "Data Analyst",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1644754800,
+      "desc": "We are seeking a talented Data Analyst to join our team. You will be responsible for analyzing large datasets and presenting insights to our stakeholders. The ideal candidate will have experience with SQL and data visualization tools such as Tableau.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 70
+      },
+      "projectLength": "9 months",
+      "proposals": "8",
+      "level": "Expert",
+      "levelDesc": "5+ years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Data analysis",
+        "Data visualization",
+        "Python"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Content Writer",
+      "jobTitle": "Content Writer",
+      "location": "Remote",
+      "postTimeStamp": 1643562000,
+      "desc": "We are looking for a talented Content Writer to create engaging and informative content for our blog and website. The ideal candidate will have experience with SEO and content marketing strategies.",
+      "priceType": "Fixed-price",
+      "budget": 500,
+      "proposals": "20",
+      "level": "Entry level",
+      "levelDesc": "0-2 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Content writing",
+        "SEO",
+        "Copywriting",
+        "Research",
+        "Editing"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "React Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1647686400,
+      "desc": "We are seeking an experienced React developer to join our team and help us build dynamic and responsive web applications.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 25,
+        "max": 40
+      },
+      "projectLength": "3 months",
+      "proposals": "3",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with React and modern web development tools and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Python Developer",
+      "jobTitle": "Software Engineer",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1647772800,
+      "desc": "We are looking for an experienced Python developer to help us build and maintain our suite of software tools for data analysis and machine learning.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 60
+      },
+      "projectLength": "6 months",
+      "proposals": "5",
+      "level": "Expert",
+      "levelDesc": "7+ years of experience with Python and related data analysis and machine learning libraries and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "iOS Developer",
+      "jobTitle": "Mobile App Developer",
+      "location": "New York, NY",
+      "postTimeStamp": 1647859200,
+      "desc": "We are seeking an experienced iOS developer to help us build and maintain our suite of mobile apps for iOS devices.",
+      "priceType": "Fixed-price",
+      "budget": 5000,
+      "proposals": "8",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with iOS development and related tools and frameworks.",
+      "projectType": "One-time",
+      "skills": [
+        "Swift",
+        "iOS SDK",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Graphic Designer",
+      "jobTitle": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "postTimeStamp": 1647945600,
+      "desc": "We are looking for a skilled graphic designer to help us create visually appealing designs and marketing materials.",
+      "priceType": "Fixed-price",
+      "budget": 2500,
+      "proposals": "4",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with graphic design and related tools and software.",
+      "projectType": "One-time",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Color theory"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Create very basic html front end",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678943921",
+      "desc": "I need to make this in HTML today all these screens, Please add selection effect and hover effect. Note Slide 5: When user clicks on shuffle Values will just change, i will send you later hardcoded values.",
+      "priceType": "Fixed-price",
+      "budget": "10",
+      "proposals": "Less than 5",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Build a simple but custom calculator on my website",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "i need someone to take this template it and update it with a few custom buttons i'd like added. here is the template: https://infotechwar.com/it-solutions/how-to-build-a-calculator-using-html-css-and-javascript/",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "3 to 6 months",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Adapt CSS file for HTML login gateway",
+      "jobTitle": "Front-End Development",
+      "location": "Worldwide",
+      "postTimeStamp": "1678933121",
+      "desc": "You will need to adapt an existing CSS file to apply the required design changes to an existing HTML login gateway (login, register, thank you pages) and considering responsive layout also. The HTML file can't be altered.",
+      "priceType": "Fixed-price",
+      "budget": "75",
+      "proposals": "50+",
+      "level": "Entry level",
+      "levelDesc": "I am looking for freelancers with the lowest rates",
+      "projectType": "One-time",
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Full-stack Web Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1646821200,
+      "desc": "We are seeking a talented Full-stack Web Developer to work on our e-commerce platform. You will be responsible for developing, testing, and maintaining the platform. The ideal candidate will have experience with React and Node.js.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 30,
+        "max": 50
+      },
+      "projectLength": "6 months",
+      "proposals": "15",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "UX/UI Designer",
+      "jobTitle": "UI/UX Designer",
+      "location": "New York, NY",
+      "postTimeStamp": 1646266800,
+      "desc": "We are looking for a talented UX/UI Designer to join our team. You will be responsible for creating user-friendly interfaces for our web and mobile applications. The ideal candidate will have experience with Sketch, Adobe XD, and InVision.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 35,
+        "max": 60
+      },
+      "projectLength": "3 months",
+      "proposals": "10",
+      "level": "Intermediate",
+      "levelDesc": "3-5 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Sketch",
+        "Adobe XD",
+        "InVision",
+        "User research",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Data Analyst",
+      "jobTitle": "Data Analyst",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1644754800,
+      "desc": "We are seeking a talented Data Analyst to join our team. You will be responsible for analyzing large datasets and presenting insights to our stakeholders. The ideal candidate will have experience with SQL and data visualization tools such as Tableau.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 70
+      },
+      "projectLength": "9 months",
+      "proposals": "8",
+      "level": "Expert",
+      "levelDesc": "5+ years of experience",
+      "projectType": "Ongoing",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Data analysis",
+        "Data visualization",
+        "Python"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Content Writer",
+      "jobTitle": "Content Writer",
+      "location": "Remote",
+      "postTimeStamp": 1643562000,
+      "desc": "We are looking for a talented Content Writer to create engaging and informative content for our blog and website. The ideal candidate will have experience with SEO and content marketing strategies.",
+      "priceType": "Fixed-price",
+      "budget": 500,
+      "proposals": "20",
+      "level": "Entry level",
+      "levelDesc": "0-2 years of experience",
+      "projectType": "One-time",
+      "skills": [
+        "Content writing",
+        "SEO",
+        "Copywriting",
+        "Research",
+        "Editing"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "React Developer",
+      "jobTitle": "Web Developer",
+      "location": "Remote",
+      "postTimeStamp": 1647686400,
+      "desc": "We are seeking an experienced React developer to join our team and help us build dynamic and responsive web applications.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 25,
+        "max": 40
+      },
+      "projectLength": "3 months",
+      "proposals": "3",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with React and modern web development tools and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Python Developer",
+      "jobTitle": "Software Engineer",
+      "location": "San Francisco, CA",
+      "postTimeStamp": 1647772800,
+      "desc": "We are looking for an experienced Python developer to help us build and maintain our suite of software tools for data analysis and machine learning.",
+      "priceType": "Hourly",
+      "hourRate": {
+        "min": 40,
+        "max": 60
+      },
+      "projectLength": "6 months",
+      "proposals": "5",
+      "level": "Expert",
+      "levelDesc": "7+ years of experience with Python and related data analysis and machine learning libraries and frameworks.",
+      "projectType": "Ongoing",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "iOS Developer",
+      "jobTitle": "Mobile App Developer",
+      "location": "New York, NY",
+      "postTimeStamp": 1647859200,
+      "desc": "We are seeking an experienced iOS developer to help us build and maintain our suite of mobile apps for iOS devices.",
+      "priceType": "Fixed-price",
+      "budget": 5000,
+      "proposals": "8",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with iOS development and related tools and frameworks.",
+      "projectType": "One-time",
+      "skills": [
+        "Swift",
+        "iOS SDK",
+        "Xcode",
+        "UIKit"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Graphic Designer",
+      "jobTitle": "Graphic Designer",
+      "location": "Los Angeles, CA",
+      "postTimeStamp": 1647945600,
+      "desc": "We are looking for a skilled graphic designer to help us create visually appealing designs and marketing materials.",
+      "priceType": "Fixed-price",
+      "budget": 2500,
+      "proposals": "4",
+      "level": "Intermediate",
+      "levelDesc": "2-5 years of experience with graphic design and related tools and software.",
+      "projectType": "One-time",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Color theory"
+      ]
+    }
+  ]
+}
